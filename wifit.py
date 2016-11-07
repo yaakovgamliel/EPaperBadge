@@ -770,4 +770,4 @@ menubar.add_cascade(label="Insert", menu=insertMenu)
 
 background.set_area(EPD_LARGE)
 background.show()
-root.mainloop(
+root.mainloop()
